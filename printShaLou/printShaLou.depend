@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431259255 source:e:\pat\printshalou\main.cpp
+	<iostream>
+	<math.h>
+
